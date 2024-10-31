@@ -1,0 +1,3 @@
+html:not([lang='en-US']) .no-translation {
+  display: none !important;
+}
